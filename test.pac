@@ -1,3 +1,3 @@
 FindProxyForURL(url, host) {
-  return "SOCKS5 localhost:1080";
+  return "PROXY localhost:1080";
 }
